@@ -1,6 +1,6 @@
 import numpy as np
 
-n = 5  
+n = 100  
 
 A = np.random.randint(0, 10, (n, n))
 B = np.random.randint(0, 10, (n, n))
