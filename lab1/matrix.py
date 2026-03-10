@@ -1,6 +1,6 @@
 import numpy as np
 
-n = 100  
+n = 2000 
 
 A = np.random.randint(0, 10, (n, n))
 B = np.random.randint(0, 10, (n, n))
